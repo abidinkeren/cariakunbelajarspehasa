@@ -1,0 +1,6 @@
+{
+  "name": "Portal Akun Belajar.id",
+  "description": "Portal pencarian akun pembelajaran belajar.id dan password siswa serta pendidik berbasis data Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
